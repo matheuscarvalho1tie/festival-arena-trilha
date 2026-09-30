@@ -1,7 +1,7 @@
 # Arena Trilha
 
-**Dupla:** [Nome 1] e [Nome 2]
-**Site publicado:** [link da Vercel — adicionar depois do deploy]
+**Trio:** Matheus, Diego e Anthony
+**Site publicado:** https://festival-arena-trilha.vercel.app/
 
 ## Briefing
 

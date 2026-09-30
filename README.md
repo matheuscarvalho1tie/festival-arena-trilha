@@ -19,14 +19,16 @@
 - Títulos: **Anton** — grossa e impactante, com cara de outdoor de festival grande
 - Texto: **Inter** — limpa e legível em telas, sem disputar atenção com o título
 
-**Sites de inspiração:** [adicionar 3 links reais de sites de festivais que vocês pesquisarem, com o que gostaram em cada um]
+**Sites de inspiração:** https://mapadosfestivais.com.br
+                         https://feverup.com/
+                         https://www.tycket.com.br/
 
 ## Antes e depois
 ![Antes](img/antes.png)
 ![Depois](img/depois.png)
 
 ## Os 4 prompts que mais fizeram diferença
-1. ...
-2. ...
-3. ...
-4. ...
+1. Definição da identidade visual do Arena Trilha, com escolha das cores, fontes e estilo do festival.
+2. Criação da estrutura da página inicial, destacando o nome do festival, as datas, o local e as principais atrações.
+3. Organização das atrações e das informações do festival para deixar a página mais clara e fácil de navegar.
+4. Ajustes no CSS para deixar o site com uma aparência mais profissional e adequada a um festival de sertanejo universitário.

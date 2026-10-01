@@ -23,10 +23,6 @@
                          https://feverup.com/
                          https://www.tycket.com.br/
 
-## Antes e depois
-![Antes](img/antes.png)
-![Depois](img/depois.png)
-
 ## Os 4 prompts que mais fizeram diferença
 1. Definição da identidade visual do Arena Trilha, com escolha das cores, fontes e estilo do festival.
 2. Criação da estrutura da página inicial, destacando o nome do festival, as datas, o local e as principais atrações.
